@@ -22,11 +22,16 @@ After studying what Euler, Improved Euler, Runge-Kutta methods are, it was not d
 For every method there writen functions which are updating when user changes the data.
 
 ***
-# My function at given initial values:
+## My function at given initial values:
 ![image](graphs.jpg)
 
-# All methods give almost the same result, but when we compare them the difference is more visible:
+## All methods give almost the same result, but when we compare them the difference is more visible:
 ![image](eeeror.jpg)
 
-# As expected, on the global error graph we see how big is inaccuracy of Euler`s method
-![image](global errors.jpg)
+## As expected, on the global error graph we see how big is inaccuracy of Euler`s method.
+![image](global_errors.jpg)
+However, in this particular example the global error is decreasing as we move to the right. I tried a lot different initial values to recalculate and the result was quiet same. Firstly, it put me in bewilderment, but then looked closely and understood that the bottom axe is the number of steps and as it increasing - increasing the accuracy.
+>
+***
+#### *What i learned*
+# Never and never dedlainit anymore
