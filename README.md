@@ -22,8 +22,11 @@ After studying what Euler, Improved Euler, Runge-Kutta methods are, it was not d
 For every method there writen functions which are updating when user changes the data.
 
 ***
-My function at given initial values:
-![image](just_random_graph.jpg)
+# My function at given initial values:
+![image](graphs.jpg)
 
-All methods give almost the same result, but when we compare them the difference is more visible:
-![image](error_graphs.jpg)
+# All methods give almost the same result, but when we compare them the difference is more visible:
+![image](eeeror.jpg)
+
+# As expected, on the global error graph we see how big is inaccuracy of Euler`s method
+![image](global errors.jpg)
