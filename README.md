@@ -34,4 +34,4 @@ However, in this particular example the global error is decreasing as we move to
 >
 ***
 #### *What i learned*
-# Never and never dedlainit anymore
+# Never and never dedlainitь anymore
